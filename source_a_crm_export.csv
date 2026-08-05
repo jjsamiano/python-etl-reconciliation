@@ -1,0 +1,12 @@
+crm_id,first_name,last_name,email,phone,company,state,lifecycle_stage
+1001,Maria,Santos,maria.santos@brightpath.com,+1-415-555-0132,BrightPath Logistics,CA,Customer
+1003,John,Reyes,jreyes@harboranalytics.io,,Harbor Analytics,NY,Opportunity
+1004,Jon,Reyes,j.reyes@harboranalytics.io,212-555-0198,Harbor Analytics Inc,NY,Opportunity
+1006,Angela,Delacruz,a.delacruz@nimbuscorp.com,646-555-0110,Nimbus Corp,NY,Customer
+1007,Kevin,Tan,kevin.tan@summitware.com,312-555-0177,SummitWare,IL,Lead
+1008,Priya,Nair,priya.nair@evergreen-tech.com,not-a-phone,Evergreen Tech,TX,Customer
+1010,David,Kim,david.kim@brightpath.com,415-555-0199,BrightPath Logistics,CA,Lead
+1011,Sarah,Lopez,sarah.lopez@,510-555-0121,Coastal Freight,CA,Opportunity
+1012,Sarah,Lopez,sarah.lopez@coastalfreight.com,510-555-0121,Coastal Freight,CA,Opportunity
+1013,Michael,Obrien,mobrien@summitware.com,312-555-0166,SummitWare,IL,Customer
+1014,Lin,Zhao,lin.zhao@nimbuscorp.com,646-555-0155,Nimbus Corp,NY,Lead

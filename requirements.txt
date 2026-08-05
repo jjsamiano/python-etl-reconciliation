@@ -1,0 +1,2 @@
+# No external dependencies -- uses only the Python standard library
+# (csv, difflib, dataclasses, os). Tested on Python 3.10+.

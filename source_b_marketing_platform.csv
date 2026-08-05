@@ -1,0 +1,11 @@
+marketing_id,full_name,email,phone,campaign_source,last_campaign,email_opens_30d
+MK-01,Maria Santos,maria.santos@brightpath.com,415.555.0132,Webinar Series,Q1 Logistics Webinar,6
+MK-02,Jonathan Reyes,jonathan.reyes@harboranalytics.io,212-555-0198,Referral Nurture,Partner Spotlight,3
+MK-03,Angie Delacruz,a.delacruz@nimbuscorp.com,646.555.0110,Trade Show Follow-up,DataConf Booth,2
+MK-04,Kevin Tan,kevin.tan@summitware.com,312-555-0177,Cold Outreach,Cold Email Sequence,1
+MK-05,Priya Nair,priya.nair@evergreen-tech.com,713-555-0144,Webinar Series,Q1 Logistics Webinar,5
+MK-06,David Kim,david.kim@brightpath.com,415-555-0199,Partner Program,Partner Spotlight,4
+MK-07,Sara Lopez,sara.lopez@coastalfreight.com,510-555-0121,Referral Nurture,Partner Spotlight,7
+MK-08,Lin Zhao,lin.zhao@nimbuscorp.com,646-555-0155,Trade Show Follow-up,DataConf Booth,2
+MK-09,Derek Fox,derek.fox@lattice-systems.com,617-555-0166,Content Download,State of Ops Report,8
+MK-10,Wendy Chu,wendy.chu@northbridge.io,206-555-0188,Content Download,State of Ops Report,3
