@@ -11,7 +11,7 @@ employer or client data is used anywhere in this repo.
 ## Pipeline
 
 **Stage 1 — intra-CRM fuzzy dedup.** The CRM export has already been through
-a SQL pass (see [`01-sql-data-quality-toolkit`](../01-sql-data-quality-toolkit))
+a SQL pass (see [`01-sql-data-quality-toolkit`](https://github.com/jjsamiano/sql-data-quality-toolkit)
 that catches exact email/phone duplicates. Two near-duplicate pairs survive
 that pass on purpose — a name-spelling variant ("John" vs "Jon" Reyes) and a
 malformed-email record that shares a phone number with its clean duplicate
@@ -28,7 +28,7 @@ of being silently overwritten** in either direction.
 **Stage 3 — reporting.** `data_quality_report.py` turns the reconciliation
 output into the summary KPIs (match rate, completeness, duplicates
 resolved, discrepancies flagged) that would normally feed a Power BI or
-Tableau dashboard — see [`03-kpi-dashboard-case-study`](../03-kpi-dashboard-case-study)
+Tableau dashboard — see [`03-kpi-dashboard-case-study`](https://github.com/jjsamiano/kpi-dashboard-case-study)
 for that layer.
 
 ## Run it
